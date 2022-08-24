@@ -14,6 +14,8 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
+Here's a nice looking Ruby one:
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
@@ -21,6 +23,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+How about one from Python, very nice isn't it...
 
 {% highlight python %}
 import time
